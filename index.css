@@ -1,0 +1,426 @@
+.textA{
+    color: black;
+}
+
+.textA1{
+    color: black;
+}
+
+.img1{
+    width: 120pc;
+    height: 45pc;
+}
+
+.img2{
+    width: 120pc;
+    height: 45pc;
+}
+
+.img3{
+    width: 120pc;
+    height: 45pc;
+}
+
+.img4{
+    width: 500px;
+    height: 500px;
+    float: left;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.container{
+    display: block;
+}
+
+.textA2{
+    display: flex;
+}
+
+.img5{
+    width: 600px;
+    height: 500px;
+    float: right;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img6{
+    width: 600px;
+    height: 500px;
+    float: left;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img7{
+    width: 600px;
+    height: 500px;
+    float: right;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img8{
+    width: 600px;
+    height: 500px;
+    float: left;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img9{
+    width: 600px;
+    height: 500px;
+    float: right;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img10{
+    width: 600px;
+    height: 500px;
+    float: left;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img11{
+    width: 600px;
+    height: 500px;
+    float: right;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img12{
+    width: 600px;
+    height: 500px;
+    float: left;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img13{
+    width: 600px;
+    height: 500px;
+    float: right;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img14{
+    width: 600px;
+    height: 500px;
+    float: left;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img15{
+    width: 600px;
+    height: 500px;
+    float: right;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img16{
+    width: 600px;
+    height: 500px;
+    float: left;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.img17{
+    width: 600px;
+    height: 500px;
+    float: right;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+.Cor1{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor2{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor3{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor4{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor5{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor6{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor7{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor8{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor9{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor10{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor11{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor12{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor12{
+    background-color: red; 
+    height: 50px; 
+}
+
+.Cor13{
+    background-color: red; 
+    height: 50px; 
+}
+
+.ler1{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+
+.ler2{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+
+.ler3{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+
+.ler4{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+
+.ler5{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+    
+.ler6{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+    
+.ler7{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+    
+.ler8{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+    
+.ler9{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+    
+.ler10{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+    
+.ler11{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+    
+.ler12{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+    
+.ler13{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+    
+.ler14{
+font-size: 30px;
+border-top: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-right: 5px solid red;
+background-color: white;
+}
+        
+.pix1{
+    color: white;
+}
+
+.pix2{
+    color: white;
+}
+
+.pix3{
+    color: white;
+}
+
+.pix4{
+    color: white;
+}
+
+.pix5{
+    color: white;
+}
+
+.pix6{
+    color: white;
+}
+
+.pix7{
+    color: white;
+}
+
+.pix8{
+    color: white;
+}
+
+.pix9{
+    color: white;
+}
+
+.pix10{
+    color: white;
+}
+
+.pix11{
+    color: white;
+}
+
+.pix12{
+    color: white;
+}
+
+.pix13{
+    color: white;
+}
+
+.redes-sociais{
+    color: white;
+}
+
+.a{
+    text-decoration: none;
+}
